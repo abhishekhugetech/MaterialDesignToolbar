@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Material Design Toolbar</string>
+    <string name="go_to_cart">Go to Cart</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="shop_now">Shop Now</string>
+</resources>
